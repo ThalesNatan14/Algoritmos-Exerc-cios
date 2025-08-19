@@ -1,2 +1,2 @@
-# Algoritmos-Exerc-cios
+# Algoritmos-Exercícios
 Listas de exercícios resolvidos
